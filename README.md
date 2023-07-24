@@ -4,12 +4,14 @@
 **Pongking/Pongking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
+
 - 😄 I'm li pengcheng.
 - 🔭 I’m currently studying in xidian university.
 - 🌱 I’m currently learning Private Language Learning.
 - 📫 How to reach me: lpcheng AT stu.xidian.edu.cn
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
 <div align="center">
 <a href="https://space.bilibili.com/383018613/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_39668239/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
