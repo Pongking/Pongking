@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
 <div align="center">
-
-    <table>
+<table>
   <tr>
     <td><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Pongking" /></td>
