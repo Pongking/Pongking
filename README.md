@@ -9,6 +9,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in xidian university.
 - 🌱 I’m currently learning Private Language Learning.
 - 📫 How to reach me: lpcheng AT stu.xidian.edu.cn
+<div align="center">
+<a href="https://space.bilibili.com/383018613/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_39668239/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/al-pc/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=Pongking&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
  <!--- 👯 I’m looking to collaborate on studying together.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
