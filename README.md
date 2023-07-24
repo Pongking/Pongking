@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <div align="center">
 <table>
   <tr>
-    <img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Pongking" />
+    <tr><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" /></tr>
+    <tr><img src="https://github-readme-stats.vercel.app/api?username=Pongking" /></tr>
   </tr>
 </table>
 <a href="https://space.bilibili.com/383018613/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
