@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Pongking" alt="people.followers" /></td>
+   <td><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" alt="people.followers" /></td>
   </tr>
 </table>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
