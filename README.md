@@ -15,6 +15,12 @@ Here are some ideas to get you started:
     <a href="https://www.zhihu.com/people/al-pc/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Pongking&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Pongking" /></td>
+  </tr>
+</table>
   </div>
  <!--- 👯 I’m looking to collaborate on studying together.
 - 🤔 I’m looking for help with ...
@@ -22,12 +28,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Pongking" /></td>
-  </tr>
-</table>
+  
+
 
 
 <!--
