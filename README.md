@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 😄 I'm li pengcheng.
 - 🔭 I’m currently studying in xidian university.
-- 🌱 I’m currently learning privacy protection based on language model.
+- 🌱 My research interests include privacy protection and deep learning.
 - 📫 How to reach me: lpcheng AT stu.xidian.edu.cn
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
