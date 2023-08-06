@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in xidian university.
 - 🌱 My research interests include privacy protection and deep learning.
 - 📫 How to reach me: lpcheng AT stu.xidian.edu.cn
+-     "We can never be right, we can only prove we're wrong."
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
