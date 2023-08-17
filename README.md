@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
 <div align="center">
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Pongking" /></td>
-  </tr>
-</table>
+
 <a href="https://space.bilibili.com/383018613/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_39668239/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/al-pc/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
@@ -31,6 +26,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - ⚡ Fun fact: ...
+
+
+
+
+<table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Pongking" /></td>
+  </tr>
+</table>
 -->
   
 
