@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Welcome! I'm li pengcheng.
-- 🔭 I’m a Ph.D. candidate at ustc.
+- 🔭 I’m a Ph.D. student at ustc.
 - 🌱 My research interests include privacy protection and LLMs.
 - 📫 How to reach me: deepsimon99@gmail.com.
 -  "We can never be right, we can only prove we're wrong."
