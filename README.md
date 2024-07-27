@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 😄 Welcome! I'm li pengcheng.
 - 🔭 I’m a Ph.D. student at ustc.
-- 🌱 My research interests include privacy protection and LLMs.
+- 🌱 My research interests include privacy protection and LLMs.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 📫 How to reach me: deepsimon99@gmail.com.
 -  "We can never be right, we can only prove we're wrong."
 
