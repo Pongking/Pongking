@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 -->
 
-- 😄 Welcome! I'm li pengcheng.
-- 🔭 I’m a Ph.D. student at ustc.
-- 🌱 My research interests include privacy protection and LLMs.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 😄 Welcome! I'm li pengcheng.<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+- 🔭 I’m a Ph.D. student at ustc.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 🌱 My research interests include privacy protection and LLMs.<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 - 📫 How to reach me: deepsimon99@gmail.com.
 -  "We can never be right, we can only prove we're wrong."
 
