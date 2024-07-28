@@ -5,50 +5,25 @@
 Here are some ideas to get you started:
 -->
 
+<p><em>Ph.D. student at ustc <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+My research interests include privacy protection and LLMs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 
-- 🔭 I’m a Ph.D. student at ustc <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-- 🌱 My research interests include privacy protection and LLMs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></br>
+ 📫 How to reach me: deepsimon99@gmail.com
+</em></p>
 
--  "We can never be right, we can only prove we're wrong."
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
 
-- 📫 How to reach me: deepsimon99@gmail.com <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
- <!--- 👯 I’m looking to collaborate on studying together.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
+<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXMxb3ZsNHJzbnQ3ODhlYWlqMXY5aW43ZWljcHIxOThpNnAzZmJscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nbmuSsd2ivvrf462s/giphy.gif)" width="60"> <em><b>"一周是一年的2%(One week is 2% of a year)"</br></em>
 
 
-<a href="https://space.bilibili.com/383018613/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_39668239/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/al-pc/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    
-    <img src="https://komarev.com/ghpvc/?username=Pongking&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
 
-
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Pongking" /></td>
-  </tr>
-</table>
--->
   
 
 
 
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pongking&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pongking)](https://github.com/anuraghazra/github-readme-stats)
-https://github.com/DenverCoder1/github-readme-streak-stats
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
-https://zhuanlan.zhihu.com/p/454597068
--->
 
 
 
