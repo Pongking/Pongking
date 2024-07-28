@@ -16,7 +16,7 @@ My research interests include privacy protection and LLMs <img src="https://medi
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
 
-<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXMxb3ZsNHJzbnQ3ODhlYWlqMXY5aW43ZWljcHIxOThpNnAzZmJscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nbmuSsd2ivvrf462s/giphy.gif)" width="60"> <em><b>"一周是一年的2%(One week is 2% of a year)"</br></em>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXMxb3ZsNHJzbnQ3ODhlYWlqMXY5aW43ZWljcHIxOThpNnAzZmJscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nbmuSsd2ivvrf462s/giphy.gif" width="60"> <em><b>"一周是一年的2%(One week is 2% of a year)"</br></em>
 
 
 
