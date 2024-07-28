@@ -20,8 +20,9 @@ class Developer:
         self.name = "Pengcheng Li"
         self.pronouns = "he/his"
         self.code = ["Python", "C++", "Java", "Go", "HTML"]
-        self.tools = ["PyTorch", "Git", "Docker"]
-        self.models = ["Transformer", "BERT", "GPT",  "CLIP","ViT","CNN"]
+        self.DevOps = ["Linux", "Git", "Docker"]
+        self.tools = ["PyTorch", "Transformers"]
+        self.models = ["BERT", "GPT",  "CLIP","ViT","CNN"]
         self.interests = ["LLM", "MM-LLM", "Sora"]
         self.challenge = "I am doing the #1yearOf2CCFpaper challenge focused on Safety of LLM "
 
