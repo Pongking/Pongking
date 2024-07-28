@@ -6,9 +6,8 @@ Here are some ideas to get you started:
 -->
 
 <p><em>Ph.D. student at ustc <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-My research interests include privacy protection and LLMs 
-
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+My research interests include privacy protection and LLMs <img src="https://media.giphy.com/media/YYbecrFqO7UUE/giphy.gif" width="30"></br>
+I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></br>
  📫 How to reach me: deepsimon99 AT gmail dot com
 </em></p>
 
