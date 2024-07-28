@@ -11,6 +11,20 @@ I love connecting with different people</b> so if you want to say <b>hi, I'll be
  📫 How to reach me: deepsimon99 AT gmail dot com <img src="https://media.giphy.com/media/k7Yv2QsOGYTsI0CIDt/giphy.gif" width="30">
 </em></p>
 
+```python
+class Developer:
+    def __init__(self):
+        self.pronouns = "he/his"
+        self.code = ["Python", "C++", "Java", "Go", "HTML"]
+        self.tools = ["PyTorch", "Git", "Docker"]
+        self.models = ["Transformer", "BERT", "GPT",  "CLIP","ViT","CNN"]
+        self.interests = ["LLM", "MM-LLM", "Sora"]
+        self.challenge = "I am doing the #1yearOf2CCFpaper challenge focused on Safety of LLM "
+
+    def percent_of_year_in_weeks(self, days_per_week, days_per_year):
+        return (days_per_week / 100) * days_per_year
+```
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
