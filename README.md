@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi, I'm Li Pengcheng! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!--
 **Pongking/Pongking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-- 😄 Welcome! I'm li pengcheng <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 - 🔭 I’m a Ph.D. student at ustc <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 🌱 My research interests include privacy protection and LLMs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📫 How to reach me: deepsimon99@gmail.com <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 -  "We can never be right, we can only prove we're wrong."
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pongking&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
