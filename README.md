@@ -12,7 +12,7 @@ I love connecting with different people</b> so if you want to say <b>hi, I'll be
 </em></p>
 
 ```python
-class Developer:
+class Developer_LiPengcheng:
     def __init__(self):
         self.pronouns = "he/his"
         self.code = ["Python", "C++", "Java", "Go", "HTML"]
