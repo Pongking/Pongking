@@ -22,7 +22,7 @@ class Developer:
         self.code = ["Python", "C++", "Java", "Go", "HTML"]
         self.DevOps = ["Linux", "Git", "Docker"]
         self.tools = ["PyTorch", "Transformers"]
-        self.models = ["BERT", "GPT",  "CLIP","ViT","CNN"]
+        self.models = ["BERT", "GPT",  "CLIP","ViT","DiT"]
         self.interests = ["LLM", "MM-LLM", "Sora"]
         self.challenge = "I am doing the #1yearOf2CCFpaper challenge focused on Safety of LLM "
 
